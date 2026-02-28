@@ -1,5 +1,5 @@
 Readme for protein volume finder project 
-Made by: Brandon Matsumoto, Raymond Barsch, Milca Girmai
+Made by: Brandon Matsumoto, Raymond Barsch
 
 How to run program:
 Please run program using script_runy.  Script run imports from optimized and voronoi_algo.
